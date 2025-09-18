@@ -49,7 +49,7 @@ Proyek ini berfokus pada analisis data pelanggan dari sebuah kampanye marketing.
 ---
 
 ## Referensi
-- Dataset: *Marketing Campaign Data* (sumber asli dapat dicantumkan di sini).
+- Dataset: [*Marketing Campaign Data*](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis).
 - Dokumentasi Pandas, Matplotlib, Seaborn.
 
 ---
